@@ -1,7 +1,7 @@
 ## Hi, i'm Hikaru👋
 
 <!--
-**HikaruApps/HikaruApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HikaruApps/HikaruApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 # 🌌 About Me
 I’m 16 years old, a **passionate programmer** from Russia.🇷🇺 I enjoy **being productive** and diving deep into coding projects, especially with Rust, Java, JavaScript, and TypeScript. I love exploring new technologies, building tools, and experimenting with web and app development.
 Outside of coding, I usually keep to myself, spend time relaxing, and work on personal projects at my own pace. I focus on making every project meaningful, even if it’s small, while also taking time to rest and recharge.
@@ -26,4 +26,3 @@ Outside of coding, I usually keep to myself, spend time relaxing, and work on pe
 [![](https://visitcount.itsvg.in/api?id=HikaruApps&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
