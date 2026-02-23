@@ -41,8 +41,8 @@ I prioritize **deliberate productivity** and aim to make every project—from sm
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HikaruApps&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HikaruApps&theme=tokyonight&hide_border=false" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HikaruApps&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HikaruApps&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -53,7 +53,3 @@ I prioritize **deliberate productivity** and aim to make every project—from sm
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=HikaruApps&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HikaruApps&icon=0&color=0" />
-</p>
