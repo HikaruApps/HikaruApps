@@ -1,67 +1,75 @@
-# 🖥️ Hikaru.exe | System Initialized
+ **HikaruApps/HikaruApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Online-00ff41?style=flat-square&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-RU%20(UTC%2B3)-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Rust-ED21A2?style=flat-square" />
-</p>
+# 🚀 Aspiring DevOps & FullStack Engineer
 
-> **Aspiring DevOps & FullStack Engineer** > *Architecting reliability, automating the chaos.*
 
----
+I am an **aspiring DevOps Engineer** and **FullStack Developer** (16, based in Russia 🇷🇺) with a strong focus on automation and system optimization.
 
-### ⚙️ System Profile
 
-I bridge the gap between high-performance code (**Rust/Go**) and robust infrastructure (**K8s/Terraform**). 16-year-old engineer with a creative edge in 3D modeling.
+My core passion lies in **building, securing, and optimizing infrastructure**. I thrive on diving deep into code to create reliable and scalable systems from the ground up.
 
-```bash
-$ neofetch --user hikaru
-
-```
-
-| Category | stack.log |
-| --- | --- |
-| **Logic** | `Python`, `JavaScript`, `Rust`, `Go` |
-| **Cloud & Ops** | `Docker`, `K8s`, `Terraform`, `Ansible` |
-| **CI/CD** | `GitHub Actions`, `GitLab CI`, `Jenkins` |
-| **Database** | `PostgreSQL`, `Redis` |
-| **Creative** | `Blender`, `Krita` |
 
 ---
 
-### 🛠️ Tech Stack Ecosystem
 
-#### [ Languages & Frameworks ]
+### ⚙️ Technical Focus & Tooling
 
-#### [ DevOps & Infrastructure ]
 
-#### [ Tools & Creative ]
+I am actively working on mastering new technologies to streamline deployment:
+
+
+* **Containerization:** `Docker` and `Kubernetes (K8s)`.
+
+* **Infrastructure as Code (IaC):** `Terraform` and `Ansible`.
+
+* **CI/CD:** Building robust pipelines using `GitHub Actions` and `GitLab CI`.
+
+
+### 💻 Development Expertise
+
+
+I focus on high-performance and reliable scripting and application development:
+
+
+| Language | Primary Role | Key Frameworks |
+
+| :--- | :--- | :--- |
+
+| **Python** | Automation & Backend | *FastAPI, Django* |
+
+| **Rust / Go** | Performance & Utilities | *Tokio, Network Scripting* |
+
+
+### 🧠 Approach & Creative Edge
+
+
+I prioritize **deliberate productivity** and aim to make every project—from small script utilities to complex applications—**meaningful**. My commitment to quality is balanced by a creative outlet in **3D modeling (Blender) and digital art (Krita)**, which grants me a unique perspective when approaching complex engineering challenges.
+
+
+> *I believe the best defense against a cyber threat is a deep understanding of how it works.*
+
+
+--- 
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/nullracoon.bsky.social) 
+
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hikaru.exe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hikaru.exe&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikaru.exe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hikaru.exe&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hikaru.exe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Hikaru.exe&icon=3&color=0)](https://visitcount.itsvg.in)
 
-### 📊 System Activity & Metrics
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHikaruApps%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3DED21A2%26icon_color%3D00ff41%26text_color%3Dededed%26bg_color%3D0a0a0a" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHikaruApps%26theme%3Ddark%26hide_border%3Dtrue%26layout%3Dcompact%26title_color%3DED21A2%26icon_color%3D00ff41%26text_color%3Dededed%26bg_color%3D0a0a0a" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DHikaruApps%26theme%3Ddark%26hide_border%3Dtrue%26stroke%3DED21A2%26ring%3D00ff41%26fire%3DED21A2%26currStreakLabel%3D00ff41" />
-</p>
-
----
-
-### 🔗 Connectivity
-
-[ ✈️ [Telegram](https://t.me/HikaruDevOps) ] -- [ 🦋 [Bluesky](https://www.google.com/search?q=https://bsky.app/profile/hikaru.bsky.social) ] -- [ 🌐 [Website](https://your-website.com) ]
-
----
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Fquote%3DIf%2520it%27s%2520not%2520automated,%2520it%27s%2520broken.%26author%3DHikaru.exe%26theme%3Ddark%26border_radius%3D10%26layout%3Dgoogle" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3DHikaruApps%26icon%3D0%26color%3DED21A2" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
