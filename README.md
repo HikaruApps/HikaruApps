@@ -1,4 +1,4 @@
- **HikaruApps/HikaruApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **HikaruApps/HikaruApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 🚀 Aspiring DevOps & FullStack Engineer
 
@@ -31,13 +31,13 @@ I am actively working on mastering new technologies to streamline deployment:
 I focus on high-performance and reliable scripting and application development:
 
 
-| Language | Primary Role | Key Frameworks |
+|Languag|Primary Role|Key Frameworks|
 
-| :--- | :--- | :--- |
+|:--- |:---|:---|
 
-| **Python** | Automation & Backend | *FastAPI, Django* |
+|**Python**|Automation & Backend|*FastAPI, Django*|
 
-| **Rust / Go** | Performance & Utilities | *Tokio, Network Scripting* |
+|**Rust / Go**|Performance & Utilities|*Tokio, Network Scripting*|
 
 
 ### 🧠 Approach & Creative Edge
