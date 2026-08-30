@@ -39,15 +39,6 @@ I prioritize **deliberate productivity** and aim to make every project—from sm
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HikaruApps&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache=1" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HikaruApps&theme=tokyonight&hide_border=false&v=1" width="48%" />
-</p>
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=HikaruApps&theme=tokyonight&no-frame=false&margin-w=4&refresh=true" />
-
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
